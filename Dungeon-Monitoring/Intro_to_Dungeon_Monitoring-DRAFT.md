@@ -43,4 +43,41 @@ Questions for a DM
     Who are DMs? Who should be DMs, and why?
     What are the duties of a DM when on duty? Can you describe what a DM might literally find themselves doing if things are going fine and everyone is enjoying themselves?
     How does a DM know when to step in? How does a DM know when NOT to step in?
+
+
+#-
+# Notes from SirMikeNJ
+#
+
+
+    So you want to be a DM…why?
+    Introduction to the roles of a DM
+    Consent is king (or queen). The roles of a DM in consent.
+    Consent interventions role play and practice.
+    15 minute break
+    Basic etiquette
+    Equipment issue and positions
+    Bystander interventions
+    How to observe without being intrusive
+    How to handle someone playing under the influence
+    Aftercare: The DM’s role
+    Sex positive: The DM’s role
+    Dungeon diplomacy
+    Lunch break
+    Setting the scene for the DM
+    What to look for in:
+    A. Impact scenes
+    B. Bondage scenes
+    C. Fire scenes
+    d. Waterboarding and breath play
+    e. Needles and sharp pokey things
+    f. Rope and suspensions
+    g. Medical play
+    h. Knife and edgeplay.
+    Venue roles and responsibilities
+    Basic First aid
+    Someone asks for help…now what do I do
+    The DM tool box
+    Practice scenarios
+
 ```

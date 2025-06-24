@@ -8,7 +8,7 @@ Whether or not we are aware of it, risk evaluation is something that we all do e
 **About this Document:**  
 Each term below (save for **RACK** which is a term that long predates this document's origins), includes **Commentary** from the author, and one or more **Examples**.  All examples are in the form of paired statements.  The *Risk* statement is a potential bad outcome, whereas the *However* statement is a potential positive outcome or reason why someone would participate in that activity.
 
-**Begin Terminology**
+## Begin Terminology
 
 ### Risk (As used in this document)
 
@@ -44,11 +44,11 @@ An acronym for “**R**isk **A**ware **C**onsensual **K**ink”, which many, the
 All activities, even those outside of kink, have some risk involved.  Weigh the reward against the chance of injury or loss.  This sets the bar for risk tolerance/acceptance.
 
 **Examples:**  
-*Risk:* Fire play has a **moderate** chance to cause **severe burns**.    
+*Risk:* Fire play has a **moderate** chance to cause **severe burns**.
 *However*: This type of play can also have a **therapeutic** or **relaxing effect**.
 
-*Risk:* Impact play has a chance to leave **severe bruises** or cause **organ damage**.    
-*However*: The endorphin rush can be **joyful** or **exhilarating**. 
+*Risk:* Impact play has a chance to leave **severe bruises** or cause **organ damage**.
+*However*: The endorphin rush can be **joyful** or **exhilarating**.
 
 ### Risk Mitigation
 

@@ -1,1 +1,4 @@
+#-
+# Ignore extensions and MacOS metadata
 .qodo
+.DS_store
